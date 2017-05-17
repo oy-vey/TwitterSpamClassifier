@@ -178,3 +178,7 @@ TSWLatexianTemp*
 
 # KBibTeX
 *~[0-9]*
+
+.ipynb_checkpoints/TwitterSocialHoneypot-checkpoint.ipynb
+
+.ipynb_checkpoints/.ipynb_checkpoints/TwitterSocialHoneypot-checkpoint-checkpoint.ipynb
